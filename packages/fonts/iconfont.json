@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21823774",
+      "name": "check",
+      "font_class": "check",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "21823821",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    }
+  ]
+}
